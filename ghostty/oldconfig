@@ -1,0 +1,16 @@
+font-family = "DepartureMono Nerd Font Mono"
+font-size = 17
+mouse-hide-while-typing = true
+
+window-save-state = always
+
+macos-titlebar-style=transparent
+
+custom-shader = shaders/starfield.glsl
+
+adjust-cell-height = 35%
+
+
+
+
+
