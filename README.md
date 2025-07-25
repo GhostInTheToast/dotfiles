@@ -11,7 +11,7 @@ A modern, beautiful terminal configuration featuring Zsh, Oh My Zsh, Powerlevel1
 - **Plugins**: git, z, zsh-autosuggestions, zsh-syntax-highlighting, zsh-completions
 
 ### Terminal Emulator
-- **Ghostty** - Modern terminal emulator with GPU acceleration
+- **Ghostty** - Modern terminal emulator with GPU acceleration (if u run all this shit with no gpu, its fine but the galaxy part of it might lag slightly)
 - **Custom Shaders**: 
   - `bloom025.glsl` - Subtle glow effect ✨
   - `cursor_smear.glsl` - Smooth cursor trails 🌊  
